@@ -1,2 +1,2 @@
 # Simple-todo-App
-using basic html and css to make a todo app
+using basic html,css and javascript to make a todo app
